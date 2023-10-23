@@ -1,4 +1,4 @@
-import { MouseEvent, useState } from "react";
+import { useState } from "react";
 
 function ListGroup() {
   let items = [
